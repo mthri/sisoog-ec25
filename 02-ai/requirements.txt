@@ -1,0 +1,13 @@
+huggingface_hub==1.31.0
+nemo-toolkit[asr]==3.0.0
+numpy==2.5.3
+openai==3.14.1
+peewee==4.5.1
+pocket-tts==3.1.0
+PyYAML==6.0.3
+scipy==1.18.1
+silero-vad==6.2.1
+sounddevice==0.5.6
+soundfile==0.14.0
+sphn==0.2.1
+torch==2.14.0

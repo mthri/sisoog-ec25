@@ -2,3 +2,9 @@
 .mypy_cache
 *.db
 __pycache__
+
+pocket-tts
+shenava-koochik
+
+.agents
+.codex
