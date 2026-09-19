@@ -1,6 +1,11 @@
 .venv
 .mypy_cache
 *.db
+*.db-shm
+*.db-wal
+*.db-journal
+03-ai-secretary/*.lock
+03-ai-secretary/cache/
 __pycache__
 
 pocket-tts
